@@ -1,5 +1,5 @@
 
-//Comments
+
 import 'package:flutter/material.dart';
 
 class DisplayResult extends StatelessWidget {
